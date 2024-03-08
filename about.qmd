@@ -4,6 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+![When I helped raise a litter of English Lab puppies](images/IMG_7183.png)
+My name is Morgan Neal and I am pursuing a Biology degree and a Biochemistry minor at UMass Amherst. I have always loved animals and am counting down the days until I can get my own dog. In the meantime, I have helped one of my friends raise her litter of Lab puppies. On the academic front, I am very interested in molecular biology and biotechnology and I hope to pursue a job in the biotech field after completing the AMB (Applied Masters in Biotechnology) program here at UMass. 
+

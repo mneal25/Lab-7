@@ -8,8 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: Project 
+      - href: labs.qmd
+        text: Labs 
+      - href: presentation.qmd
+        text: Presentation
 format:
   html:
     theme: darkly
